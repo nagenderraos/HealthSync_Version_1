@@ -99,7 +99,10 @@ footer hr, .left-off-canvas-menu hr {
 
 /* Media */
 
-
+body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
 .ui-helper-hidden {
     display: none;
 }
