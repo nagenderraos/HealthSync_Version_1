@@ -16657,7 +16657,7 @@ body.diagnostic-centers.landing {
 
 #home-container,
 #category-home-container {
-    margin-top: 12%;
+    margin-top: 8%;
 }
 
 #home-container > div,
@@ -17867,6 +17867,7 @@ body .phone-number:active {
 
 .home-header {
     padding-top: 10px;
+    margin-left: 64px;
 }
 
 .home-banner {
@@ -17889,7 +17890,7 @@ body .phone-number:active {
 .home-banner h5 {
     color: #ffffff;
     font-family: 'Roboto', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .home-banner h3 {
@@ -17899,7 +17900,7 @@ body .phone-number:active {
 
 .home-banner hr {
     display: block;
-    border-top: 2px solid cyan;
+    border-top: 2px solid #388d8e;
 }
 
 .home-banner-outer {
@@ -17950,10 +17951,10 @@ body .phone-number:active {
     font-size: 12px;
     text-align: center;
     border-radius: 8px;
-    border: 2px solid cyan;
+  /*  border: 2px solid cyan;
     padding: 5px;
     width: 162px;
-    height: 60px;
+    height: 60px;*/
     float: left;
 }
 
@@ -18415,7 +18416,7 @@ p.faq-page-footer {
         top: 1.2rem;
     }
     body.home {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi_new_bg_800.png) no-repeat scroll center center;
+        background: url(../img/bg.jpg) no-repeat scroll center center;
     }
     body.doctors.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1080x1080-dark.jpg) no-repeat scroll center center / 250% auto transparent;
@@ -18728,7 +18729,7 @@ p.faq-page-footer {
         font-size: 18px !important;
     }
     body.home {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi_new_bg_1080.png) no-repeat scroll;
+        background: url(../img/bg.jpg) no-repeat scroll;
     }
     body.doctors.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1080x1080-dark.jpg) no-repeat scroll;
