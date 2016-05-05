@@ -1964,7 +1964,8 @@ body .ui-tooltip {
 @font-face {
     font-family: 'VideoJS';
     src: url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.eot);
-    src: url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.eot?#iefix) format('embedded-opentype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.woff) format('woff'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.ttf) format('truetype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.svg#icomoon) format('svg');
+    src: url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.eot?#iefix) format('embedded-opentype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.woff) format('woff'), 
+    url(../fontsfonts/AdobeClean-Regular.ttf) format('truetype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.svg#icomoon) format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -17876,8 +17877,10 @@ body .phone-number:active {
 .home-banner {
     background: rgba(0, 0, 0, 0.5) !important;
     font-family: 'Roboto', sans-serif !important;
-    max-width: 400px;
+    max-width: 403px;
     color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 5px 0px 4px rgba(12, 12, 12, 0.31);
 }
 
 .banner-text {
@@ -17886,7 +17889,7 @@ body .phone-number:active {
 
 .home-banner-inner {
     padding: 10px 24px 0px 24px;
-    line-height: 110%;
+    line-height: 150%;
 }
 
 .home-banner h3,
