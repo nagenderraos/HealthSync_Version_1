@@ -15141,13 +15141,13 @@ a:active {
 }
 
 .alert-box.alert {
-    background-color: #C61E3F;
+    background-color: #388d8e;;
     border-color: #B11836;
 }
 
 .lSSlideOuter .lSPager.lSpg > li:hover a,
 .lSSlideOuter .lSPager.lSpg > li.active a {
-    background-color: #C61E3F;
+    background-color: #388d8e;;
 }
 
 .split-close.button {
@@ -15375,26 +15375,26 @@ a:active {
 
 button,
 .button {
-    background-color: #C61E3F;
-    border-color: #C61E3F;
+    background-color: #388d8e;;
+    border-color: #388d8e;;
 }
 
 .doctors button,
 .doctors .button {
-    background-color: #C61E3F;
-    border-color: #C61E3F;
+    background-color: #388d8e;;
+    border-color: #388d8e;;
 }
 
 .diagnostic-centers button,
 .diagnostic-centers .button {
-    background-color: #C61E3F;
-    border-color: #C61E3F;
+    background-color: #388d8e;;
+    border-color: #388d8e;;
 }
 
 .salons-spas button,
 .salons-spas .button {
-    background-color: #c61e3f;
-    border: solid 1px #c61e3f;
+    background-color: #388d8e;
+    border: solid 1px #0e8a8b;
 }
 
 .home button:hover,
@@ -15408,7 +15408,7 @@ button:hover,
 button:focus,
 .button:hover,
 .button:focus {
-    background-color: #C61E3F;
+    background-color: #0e8a8b;
     -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     -moz-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
@@ -15419,7 +15419,7 @@ button:focus,
 .doctors button:focus,
 .doctors .button:hover,
 .doctors .button:focus {
-    background-color: #C61E3F;
+    background-color: #388d8e;
     -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     -moz-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
@@ -15431,7 +15431,7 @@ button:focus,
 .diagnostic-centers button:focus,
 .diagnostic-centers .button:hover,
 .diagnostic-centers .button:focus {
-    background-color: #C61E3F;
+    background-color: #388d8e;;
     -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     -moz-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
@@ -15441,11 +15441,11 @@ button:focus,
 .salons-spas button:focus,
 .salons-spas .button:hover,
 .salons-spas .button:focus {
-    background-color: rgba(198, 30, 63, 1);
+    background-color: rgba(7, 107, 96);
     -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     -moz-box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
     box-shadow: inset 0 0 6px rgba(255, 255, 255, .75);
-    border: solid 1px #c61e3f;
+    border: solid 1px #388d8e;;
 }
 
 .button-gray,
@@ -15570,19 +15570,19 @@ ul.pagination li a {
 
 .salons-spas.off-canvas-list li a:hover,
 off-canvas-list li a:active {
-    background: #C61E3F !important;
+    background: #388d8e; !important;
     color: #fff;
 }
 
 .diagnostic-centers.off-canvas-list li a:hover,
 off-canvas-list li a:active {
-    background: #C61E3F !important;
+    background: #388d8e; !important;
     color: #fff;
 }
 
 .doctors.off-canvas-list li a:hover,
 off-canvas-list li a:active {
-    background: #C61E3F !important;
+    background: #388d8e; !important;
     color: #fff;
 }
 
@@ -15601,7 +15601,7 @@ off-canvas-list li a:active {
 }
 
 .search .ui-widget-header {
-    background: #C61E3F;
+    background: #388d8e;;
 }
 
 .search .ui-slider-handle {
@@ -16040,7 +16040,7 @@ header {
 
 .home header,
 .landing header {
-    background-color: #e21b52;
+    background-color: #388d8e;
     color: #fff;
 }
 
@@ -16118,9 +16118,9 @@ header .inline-list {
     border-top: 0.4rem solid #ffffff;
 }
 
-header > .row > .columns:last-child {
+/*header > .row > .columns:last-child {
     padding-top: 2.1rem;
-}
+}*/
 
 header.fixed-top-bar {
     height: 3.1rem;
@@ -16162,17 +16162,17 @@ a small {
 
 .doctors a:hover,
 .doctors a:active {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .diagnostic-centers a:hover,
 .diagnostic-centers a:active {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .salons-spas a:hover,
 .salons-spas a:active {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .salons-spas a.button:hover,
@@ -16347,7 +16347,7 @@ ul.off-canvas-list li a:focus {
 }
 
 ul.off-canvas-list li a:hover {
-    background: #C61E3F;
+    background: #388d8e;;
 }
 
 body.home {
@@ -16367,7 +16367,7 @@ body.doctors.landing {
 }
 
 body.salons-spas.landing {
-    background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-salons-spas-1920x1080.jpg) no-repeat fixed 0px -40px;
+    background: url("../img/family.jpg") no-repeat fixed 0px -40px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16387,31 +16387,31 @@ body.diagnostic-centers.landing {
 }
 
 .doctors .z-primary-color-bg {
-    background-color: #C61E3F !important;
+    background-color: #388d8e; !important;
 }
 
 .diagnostic-centers .z-primary-color-bg {
-    background-color: #C61E3F !important;
+    background-color: #388d8e; !important;
 }
 
 .salons-spas .z-primary-color-bg {
-    background-color: #C61E3F !important;
+    background-color: #388d8e; !important;
 }
 
 .z-primary-color {
-    color: #C61E3F !important;
+    color: #388d8e; !important;
 }
 
 .doctors .z-primary-color {
-    color: #C61E3F !important;
+    color: #388d8e; !important;
 }
 
 .diagnostic-centers .z-primary-color {
-    color: #C61E3F !important;
+    color: #388d8e; !important;
 }
 
 .salons-spas .z-primary-color {
-    color: #C61E3F !important;
+    color: #388d8e; !important;
 }
 
 .home h1 a {
@@ -16723,7 +16723,7 @@ body.diagnostic-centers.landing {
 }
 
 .button-home-overlay:focus {
-    background-color: #C61E3F !important;
+    background-color: #388d8e; !important;
     box-shadow: none !important;
     border: none !important;
 }
@@ -16755,7 +16755,7 @@ body.diagnostic-centers.landing {
 }
 
 .doctors .css-rating span.on {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .diagnostic-centers .css-rating span.on {
@@ -16763,7 +16763,7 @@ body.diagnostic-centers.landing {
 }
 
 .salons-spas .css-rating span.on {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .rating-salon-profile .css-rating {
@@ -16965,7 +16965,7 @@ body.diagnostic-centers.landing {
 
 .section-block.highlight .rating-box .css-rating span.on,
 .section-block.highlight .rating-box .css-rating .structured-data {
-    color: #C61E3F;
+    color: #388d8e;;
 }
 
 .doctors.view .divider {
@@ -17019,7 +17019,7 @@ body.diagnostic-centers.landing {
 }
 
 .profile-discount-banner {
-    color: #C61E3F;
+    color: #388d8e;;
     background-color: #F1F1F1;
     border-color: #faebcc;
 }
@@ -17407,12 +17407,12 @@ body.diagnostic-centers.landing {
 }
 
 .doctors .search-filters .weekday input:checked + span {
-    background-color: #C61E3F;
+    background-color: #388d8e;;
     color: #fff;
 }
 
 .salons-spas .search-filters .weekday input:checked + span {
-    background-color: #C61E3F;
+    background-color: #388d8e;;
     color: #fff;
 }
 
@@ -17425,12 +17425,12 @@ body.diagnostic-centers.landing {
 
 .doctors .search-filters .gender input:checked + span {
     color: #fff;
-    background: #C61E3F;
+    background: #388d8e;;
 }
 
 .salons-spas .search-filters .gender input:checked + span {
     color: #fff;
-    background: #C61E3F;
+    background: #388d8e;;
 }
 
 .search-filters input[type="checkbox"],
@@ -17983,8 +17983,8 @@ body .phone-number:active {
 }
 
 .quick-links a:hover {
-    color: #e21b52 !important;
-    border-bottom: 1px solid #e21b52;
+    color: #027576 !important;
+    border-bottom: 1px solid #027576;
     padding-bottom: 3px;
 }
 
@@ -17992,8 +17992,8 @@ body .phone-number:active {
     font-size: 12px;
     font-weight: 300 !important;
     font-family: 'Roboto', sans-serif !important;
-    color: #e21b52 !important;
-    border-bottom: 1px solid #e21b52;
+    color: #388D8E !important;
+    border-bottom: 1px solid #388D8E;
     padding-bottom: 3px;
 }
 
@@ -18123,11 +18123,11 @@ body .phone-number:active {
 }
 
 .effect a:hover {
-    color: #c61e3f;
+    color: #388d8e;;
 }
 
 .question {
-    color: #C61E3F;
+    color: #388d8e;;
     cursor: pointer;
     padding-left: 0.5rem;
 }
@@ -18557,8 +18557,8 @@ p.faq-page-footer {
     }
     .book-appt-button {
         color: #fff;
-        background-color: #C61E3F !important;
-        border-color: #C61E3F !important;
+        background-color: #388d8e; !important;
+        border-color: #388d8e; !important;
         border-left: 0;
         box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
     }
@@ -18854,9 +18854,10 @@ p.faq-page-footer {
 
 @media only screen and (min-width:40.063em) {
     .logo {
-        width: 121px;
-        height: 50px;
-        background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-logo-white-121x50.png);
+        width: 200px;
+        height: 59px;
+        background-image: url(../img/log_healtsync.png);
+        margin-top: -2px;
     }
     .service-name-container:after {
         content: " ";
