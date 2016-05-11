@@ -7044,7 +7044,7 @@ a img {
 }
 
 p {
-    font-family: inherit;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: normal;
     font-size: 1rem;
     line-height: 1.6;
@@ -16350,7 +16350,7 @@ ul.off-canvas-list li a:hover {
     background: #388d8e;;
 }
 
-body.home {
+.home {
     background: url("../img/bg.jpg") no-repeat fixed 0px -38px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -16652,7 +16652,7 @@ body.diagnostic-centers.landing {
 
 #home-container,
 #category-home {
-    margin-bottom: 5rem;
+    margin-bottom: 0rem;
 }
 
 .container-gap {
@@ -18421,7 +18421,7 @@ p.faq-page-footer {
         float: right;
         top: 1.2rem;
     }
-    body.home {
+    .home {
         background: url(../img/bg.jpg) no-repeat scroll center center;
     }
     body.doctors.landing {
@@ -18734,10 +18734,10 @@ p.faq-page-footer {
     .footer-links {
         font-size: 18px !important;
     }
-    body.home {
+    .home {
         background: url(../img/bg.jpg) no-repeat scroll;
     }
-    body.doctors.landing {
+    /*body.doctors.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1080x1080-dark.jpg) no-repeat scroll;
     }
     body.salons-spas.landing {
@@ -18745,7 +18745,7 @@ p.faq-page-footer {
     }
     body.diagnostic-centers.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-diagnostic-tests-1080x720-dark.jpg) no-repeat scroll;
-    }
+    }*/
     .interstitial-popup-outer {
         display: block;
         position: fixed;
@@ -19019,5 +19019,92 @@ h2 {
 @media (min-width: 1200px)
 .container {
     width: 1170px;
+    
+
+    /* Clients */
+------------------------
+    
+    /*Job
+------------------------------------*/
+.job-img {
+	overflow: hidden;
+	position: relative;
+	min-height: 300px;
+	background: url(../../img/job/1.jpg) 70% 40% no-repeat;
+}
+
+.job-img .job-banner {
+	padding: 20px;
+	max-width: 450px;
+	margin: 60px auto 100px;	
+	background: rgba(255,255,255,0.8);
+}
+
+.job-img .job-banner h2 {
+	font-size: 20px;
+	line-height: 27px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+	.job-img .job-banner {
+		padding: 10px;
+		margin: 30px auto 100px;	
+	}
+}
+
+.job-img .job-img-inputs {
+	left: 0;
+	right: 0;
+	bottom: -7px;
+	padding: 20px 0;
+	position: absolute;
+	background: rgba(0,0,0,0.9);
+}
+
+/*Job-Content
+------------------------------------*/
+.job-content .categories li {
+	padding: 6px 0;
+	border-bottom: 1px dotted #eee;
+}
+
+.job-content .hex {
+	color: #999
+}
+
+/*High-Rated
+------------------------------------*/
+.high-rated .carousel-indicators {
+	top: 10px;
+	left: 65%;
+	text-align: right;
+}
+
+.high-rated .carousel-indicators .active {
+	background: #555;
+}
+
+.high-rated .carousel-indicators li {
+	border-color: #555;
+}
+
+.high-rated .carousel-inner > .item {
+	margin: 0;
+}
+
+.high-rated .star-vote {
+	float: right;
+	margin-top: 8px;
+}
+
+.high-rated .star-vote ul {
+	margin-bottom: 0;
+}
+
+.high-rated .star-vote li {
+	padding: 0;
+}
     
     
