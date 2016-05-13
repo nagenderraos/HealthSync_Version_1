@@ -16875,9 +16875,9 @@ body.diagnostic-centers.landing {
     outline: 1px solid #777;
 }
 
-.fb {
+/*.fb {
     background: #5F78AB;
-}
+}*/
 
 .google {
     background: #dd4b39;
@@ -19000,6 +19000,53 @@ p.faq-page-footer {
 	content: " ";
 	position: absolute;
 	background: rgba(255,255,255,0.9);
+}
+
+.team-v2 .inner-team {
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+}
+
+/* Social */
+
+.team-social li a.gp {
+    color: #dc4a38;
+    border: 1px solid #dc4a38;
+}
+
+.team-social li a.gp:hover{
+    color: #fff;
+    background: #dc4a38;
+    
+}
+
+.team-social li a.tw {
+    color: #159ceb;
+    border: 1px solid #159ceb;
+}
+
+.team-social li a.tw:hover {
+    color: #fff;
+    background: #159ceb;
+}
+
+.team-social li a.fb {
+    color: #4862a3;
+    border: 1px solid #4862a3;
+}
+
+.team-social li a.fb:hover{
+    
+    color: #fff;
+    background: #4862a3;
+}
+
+.team-social li a {
+    font-size: 14px;
+    padding: 6px 4px;
+    text-align: center;
+    border-radius: 50% !important;
 }
 
 .color-green {
