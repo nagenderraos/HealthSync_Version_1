@@ -19005,7 +19005,7 @@ p.faq-page-footer {
 .team-v2 .inner-team {
     padding: 20px;
     background: #fff;
-    text-align: center;
+    text-align: left;
 }
 
 /* Social */
@@ -19153,5 +19153,4 @@ h2 {
 .high-rated .star-vote li {
 	padding: 0;
 }
-    
     
