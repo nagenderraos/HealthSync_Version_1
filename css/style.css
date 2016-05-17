@@ -1043,7 +1043,7 @@ body .ui-tooltip {
 
 .ui-widget-content {
     border: 1px solid #dddddd;
-    background: #eeeeee url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png) 50% top repeat-x;
+    background: #eeeeee url() 50% top repeat-x;
     color: #333333;
 }
 
@@ -1053,7 +1053,7 @@ body .ui-tooltip {
 
 .ui-widget-header {
     border: 1px solid #e78f08;
-    background: #f6a828 url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x;
+    background: #f6a828 url() 50% 50% repeat-x;
     color: #ffffff;
     font-weight: bold;
 }
@@ -1085,7 +1085,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-focus,
 .ui-widget-header .ui-state-focus {
     border: 1px solid #fbcb09;
-    background: #fdf5ce url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png) 50% 50% repeat-x;
+    background: #fdf5ce url() 50% 50% repeat-x;
     font-weight: bold;
     color: #c77405;
 }
@@ -1106,7 +1106,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
     border: 1px solid #fbd850;
-    background: #ffffff url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;
+    background: #ffffff url() 50% 50% repeat-x;
     font-weight: bold;
     color: #eb8f00;
 }
@@ -1122,7 +1122,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
     border: 1px solid #fed22f;
-    background: #ffe45c url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png) 50% top repeat-x;
+    background: #ffe45c url() 50% top repeat-x;
     color: #363636;
 }
 
@@ -1136,7 +1136,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
     border: 1px solid #cd0a0a;
-    background: #b81900 url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png) 50% 50% repeat;
+    background: #b81900 url() 50% 50% repeat;
     color: #ffffff;
 }
 
@@ -1185,33 +1185,33 @@ body .ui-tooltip {
 
 .ui-icon,
 .ui-widget-content .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_222222_256x240.png);
+    background-image: url();
 }
 
 .ui-widget-header .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_ffffff_256x240.png);
+    background-image: url();
 }
 
 .ui-state-default .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_ef8c08_256x240.png);
+    background-image: url();
 }
 
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_ef8c08_256x240.png);
+    background-image: url();
 }
 
 .ui-state-active .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_ef8c08_256x240.png);
+    background-image: url();
 }
 
 .ui-state-highlight .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_228ef1_256x240.png);
+    background-image: url();
 }
 
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-icons_ffd27a_256x240.png);
+    background-image: url();
 }
 
 .ui-icon-blank {
@@ -1943,7 +1943,7 @@ body .ui-tooltip {
 }
 
 .ui-widget-overlay {
-    background: #666666 url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png) 50% 50% repeat;
+    background: #666666 url() 50% 50% repeat;
     opacity: .5;
     filter: Alpha(Opacity=50);
 }
@@ -1951,7 +1951,7 @@ body .ui-tooltip {
 .ui-widget-shadow {
     margin: -5px 0 0 -5px;
     padding: 5px;
-    background: #000000 url(https://www.ziffi.com/suggestadoc/css/jq/jquery-ui-1.11.1.ui-lightness/images/ui-bg_flat_10_000000_40x100.png) 50% 50% repeat-x;
+    background: #000000 url() 50% 50% repeat-x;
     opacity: .2;
     filter: Alpha(Opacity=20);
     border-radius: 5px;
@@ -1961,13 +1961,13 @@ body .ui-tooltip {
     color: #cccccc;
 }
 
-@font-face {
+/*  @font-face {
     font-family: 'VideoJS';
     src: url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.eot);
     src: url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.eot?#iefix) format('embedded-opentype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.woff) format('woff'), 
     url(../fontsfonts/AdobeClean-Regular.ttf) format('truetype'), url(https://www.ziffi.com/suggestadoc/css/video-js-4.8.1/font/vjs.svg#icomoon) format('svg');
     font-weight: normal;
-    font-style: normal;
+  font-style: normal;*/
 }
 
 .vjs-default-skin .vjs-slider {
@@ -2843,7 +2843,7 @@ body.vjs-full-window {
     left: 0;
     height: 16px;
     width: 16px;
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/dfcb-BigVideo.js-f69703b/bigvideo.png);
+    background-image: url();
 }
 
 #big-video-control-timer {
@@ -9750,10 +9750,10 @@ textarea {
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
     color: rgba(0, 0, 0, 0.75);
     display: block;
-    font-size: 0.875rem;
+    font-size: 13px;
     margin: 0 0 1rem 0;
     padding: 0.5rem;
-    height: 2.3125rem;
+    height: 3.3125rem;
     width: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -11978,7 +11978,7 @@ th.hide-for-touch {
 }
 
 #lightGallery-slider .lightGallery-slide {
-    background: url(https://www.ziffi.com/suggestadoc/css/jq/jquery.light-gallery-1.1.4/img/loading.gif) no-repeat scroll center center transparent;
+    background: url() no-repeat scroll center center transparent;
     display: inline-block;
     height: 100%;
     text-align: center;
@@ -12720,7 +12720,7 @@ th.hide-for-touch {
     display: block;
     top: 50%;
     height: 32px;
-    background-image: url(https://www.ziffi.com/suggestadoc/css/jq/jquery.lightSlider-1.1.1/img/controls.png);
+    background-image: url();
     cursor: pointer;
     position: absolute;
     z-index: 9999;
@@ -15686,7 +15686,7 @@ select {
     padding-left: 40px;
 }
 
-.doctors .z-icon-location {
+doctors .z-icon-location {
     background: transparent url(https://www.ziffi.com/suggestadoc/images/ziffi/loc-y.png) no-repeat;
 }
 
@@ -16359,7 +16359,7 @@ ul.off-canvas-list li a:hover {
 }
 
 body.doctors.landing {
-    background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1920x1080.jpg) no-repeat fixed 0px -40px;
+    background: url(#) no-repeat fixed 0px -40px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16375,7 +16375,7 @@ body.salons-spas.landing {
 }
 
 body.diagnostic-centers.landing {
-    background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-diagnostic-tests-1920x1080.jpg) no-repeat fixed 0px -40px;
+    background: url(#) no-repeat fixed 0px -40px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -17266,17 +17266,17 @@ body.diagnostic-centers.landing {
     width: 32px;
     height: 32px;
     margin-left: 10px;
-    background: transparent url(https://www.ziffi.com/suggestadoc/images/security_high_32x32.png) no-repeat 0 0;
+    background: transparent url(#) no-repeat 0 0;
 }
 
 #security-padlocks {
-    background: transparent url(https://www.ziffi.com/suggestadoc/images/padlock.sprite.png) no-repeat right center;
+    background: transparent url(#) no-repeat right center;
     padding-right: 76px;
     min-height: 32px;
 }
 
 #security-ssl {
-    background: transparent url(https://www.ziffi.com/suggestadoc/images/PositiveSSL_tl_trans.gif) no-repeat 0 0;
+    background: transparent url(#) no-repeat 0 0;
     padding-left: 108px;
     min-height: 100px;
 }
@@ -17321,7 +17321,7 @@ body.diagnostic-centers.landing {
     opacity: 1;
 }
 
-#social-fb {
+/*#social-fb {
     background: transparent url(https://www.ziffi.com/suggestadoc/images/socialmedia/facebook_all.png) no-repeat -8px -62px;
 }
 
@@ -17335,7 +17335,7 @@ body.diagnostic-centers.landing {
 
 #social-yt {
     background: transparent url(https://www.ziffi.com/suggestadoc/images/tnt.social.sprite.png) no-repeat 0 -136px;
-}
+}*/
 
 .search .booking-widget {
     background-color: #efefef;
@@ -17747,7 +17747,7 @@ body.diagnostic-centers.landing {
     display: block;
     width: 100%;
     height: 16px;
-    background: url(https://www.ziffi.com/suggestadoc/images/powered-by-google-on-white.png) no-repeat scroll center center;
+    background: url(#) no-repeat scroll center center;
 }
 
 .view-phone-number {
@@ -18072,11 +18072,11 @@ body .phone-number:active {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/facebook_circle.png);
+    background-image: url(#);
 }
 
 .home-footer .follow-on-facebook:hover {
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/facebook_hover.png);
+    background-image: url(#);
 }
 
 .home-footer .follow-on-twitter {
@@ -18087,11 +18087,11 @@ body .phone-number:active {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/twitter_circle.png);
+    background-image: url(#);
 }
 
 .home-footer .follow-on-twitter:hover {
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/twitter_hover.png);
+    background-image: url(#);
 }
 
 .home-footer .follow-on-linkedin {
@@ -18103,11 +18103,11 @@ body .phone-number:active {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/linkedin_circle.png);
+    background-image: url(#);
 }
 
 .home-footer .follow-on-linkedin:hover {
-    background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/assets/linkedin_hover.png);
+    background-image: url(#);
 }
 
 .effect {
@@ -18159,11 +18159,11 @@ p.faq-page-footer {
     margin-top: 0.8rem;
 }
 
-@font-face {
+/*@font-face {
     font-family: "Pistilli";
     src: url(https://www.ziffi.com/suggestadoc/ziffi/fonts/Pistilli/Pistilli-Roman.eot?) format("eot"), url(https://www.ziffi.com/suggestadoc/ziffi/fonts/Pistilli/Pistilli-Roman.woff) format("woff"), url(https://www.ziffi.com/suggestadoc/ziffi/fonts/Pistilli/Pistilli-Roman.ttf) format("truetype"), url(https://www.ziffi.com/suggestadoc/ziffi/fonts/Pistilli/Pistilli-Roman.svg#Pistilli) format("svg");
     font-weight: normal;
-    font-style: normal;
+    font-style: normal;*/
 }
 
 .fontpistillin {
@@ -18225,7 +18225,7 @@ p.faq-page-footer {
 }
 
 .aboutusTopBg {
-    background: url(https://www.ziffi.com/suggestadoc/images/ziffi/bgAboutUs.png) repeat-x left top;
+    background: url() repeat-x left top;
 }
 
 .topHolder {
@@ -18425,28 +18425,28 @@ p.faq-page-footer {
         background: url(../img/bg.jpg) no-repeat scroll center center;
     }
     body.doctors.landing {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1080x1080-dark.jpg) no-repeat scroll center center / 250% auto transparent;
+        background: url() no-repeat scroll center center / 250% auto transparent;
     }
     body.salons-spas.landing {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-salons-spas-1080x1080-dark.jpg) no-repeat scroll center center / 200% auto transparent;
+        background: url() no-repeat scroll center center / 200% auto transparent;
     }
     body.diagnostic-centers.landing {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-diagnostic-tests-1080x720-dark.jpg) no-repeat scroll center center / 270% auto transparent;
+        background: url() no-repeat scroll center center / 270% auto transparent;
     }
     .home .logo {
         width: 77px;
         height: 32px;
-        background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-logo-white-121x50.png);
+        background-image: url();
     }
     .landing .logo {
         width: 77px;
         height: 32px;
-        background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-logo-white-121x50.png);
+        background-image: url();
     }
     .logo {
         width: 32px;
         height: 32px;
-        background-image: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-icon-white-32x32.png);
+        background-image: url();
     }
     .footer-social-li .fa-facebook {
         margin-left: 2rem;
@@ -18633,7 +18633,7 @@ p.faq-page-footer {
         height: 460px;
     }
     .phoneImg {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/user-app-interstitial-mobile-img-2.png) no-repeat left top;
+        background: url() no-repeat left top;
         position: absolute;
         height: 313px;
         width: 185px;
@@ -18737,7 +18737,7 @@ p.faq-page-footer {
     .home {
         background: url(../img/bg.jpg) no-repeat scroll;
     }
-    /*body.doctors.landing {
+    body.doctors.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-doctors-1080x1080-dark.jpg) no-repeat scroll;
     }
     body.salons-spas.landing {
@@ -18745,7 +18745,7 @@ p.faq-page-footer {
     }
     body.diagnostic-centers.landing {
         background: url(https://www.ziffi.com/suggestadoc/images/ziffi/ziffi-diagnostic-tests-1080x720-dark.jpg) no-repeat scroll;
-    }*/
+    }
     .interstitial-popup-outer {
         display: block;
         position: fixed;
@@ -18793,7 +18793,7 @@ p.faq-page-footer {
         margin-top: 7px;
     }
     .phoneImg {
-        background: url(https://www.ziffi.com/suggestadoc/images/ziffi/user-app-interstitial-mobile-img.png) no-repeat left top;
+        background: url() no-repeat left top;
         position: absolute;
         height: 666px;
         width: 386px;
