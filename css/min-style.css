@@ -734,7 +734,7 @@ button.ui-button::-moz-focus-inner {
     font-weight: bold;
     vertical-align: top;
     color: #FFF;
-    border-radius: 3px;
+    border-radius: 0px;
     width: 190px;
     border: 0;
     overflow: hidden;
@@ -5504,6 +5504,7 @@ box-shadow: 1px 1px 3px #888;
 min-height: 250px;
 padding: 10px;
 margin: 10px;
+min-height: 290px;
 }
 
 img{
@@ -5513,6 +5514,7 @@ img{
 
 .card h3{
   color: #0e8a8b;
+  font-family:'Open Sans';
 }
 
 .card h4{
@@ -5566,7 +5568,7 @@ media screen and (min-width: 980px)
 
 .doctor-profile img{
     max-width: auto;
-    height: 100px;
+    height: 130px;
     border-radius:7px;
     padding: 0px!important;
 }
@@ -5574,6 +5576,12 @@ media screen and (min-width: 980px)
 .doctor-profile{
     
     padding-right:2px;
+}
+
+#info {
+    color: #6F6F6F;
+    
+    
 }
 
 /* Ratings*/
@@ -5637,6 +5645,8 @@ media screen and (min-width: 980px)
     -webkit-pointer-events: none;
     -moz-pointer-events: none;
     pointer-events: none;
+    margin-left: -2px;
+    margin-top: -10px;
 }
 
 .media-body {
@@ -5657,4 +5667,36 @@ media screen and (min-width: 980px)
     font-size: 13px;
     color:#6F6F6F;
     
+}
+
+.found-num #found{
+    color:#6F6F7C;
+    font-size: 14px;
+    padding-left: 10px;
+    
+}
+
+.found-num #city{
+    color: #409899;
+    font-size: 15px;
+    font-family: 'Open Sans';
+}
+
+
+#filter-lazy-load-content {
+    float: right;
+    visibility: hidden;
+}
+
+
+.filters-container {
+    font-size: 13px;
+    width: 200px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
 }
