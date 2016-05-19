@@ -5691,4 +5691,20 @@ media screen and (min-width: 980px)
     color: #6f6f6f;
     font-family: 'Open Sans';
     font-size: 14px;
+    font-weight: bold;
 }
+
+.side-menu.{
+    
+    max-width: 210px;
+}
+
+.area {
+    font-size: 14px;
+    font-weight: 200;
+    color: #6F6F6F;
+    font-family: 'Open Sans';
+    padding-left: 4px;
+    margin-top: 4px;
+}
+
